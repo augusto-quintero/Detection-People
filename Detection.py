@@ -1,5 +1,5 @@
 # ========================================================================
-# PEOPLE TRACKING SYSTEM WITH YOLOV12 AND GPU
+# PEOPLE TRACKING SYSTEM WITH YOLOV8 AND GPU
 # WITH TIME TRACKING FOR ZONE CROSSINGS - SINGLE WINDOW VERSION
 # ========================================================================
 # This program detects and tracks people in a video using
